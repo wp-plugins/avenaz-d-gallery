@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * Plugin Name: Mesonary Folder Gallery
+ * Plugin Name: AVENAZ D-Gallery
  * Plugin URI: http://www.avenaz.com
  * Description:This plugin is Folder Gallery
  * Version: 1.0
