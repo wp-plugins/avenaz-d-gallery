@@ -12,7 +12,7 @@ AVENAZ DGallery is easies plugin to show all the images in a directory in jQuery
 
 == Description ==
 
-AVENAZ DGallery is easies plugin to show all the images in a directory in jQuery Masonary using easy to use short code.
+AVENAZ D-Gallery is easies plugin to show all the images in a directory in jQuery Masonary using easy to use short code.
 
 You can use this plugin into pages and posts easily 
 
