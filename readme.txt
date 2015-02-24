@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-AVENAZ DGallery is easies plugin to show all the images in a directory in jQuery Masonary using easy to use short code.
+AVENAZ D-Gallery is easies plugin to show all the images in a directory in jQuery Masonary using easy to use short code.
 
 == Description ==
 
